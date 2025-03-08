@@ -61,7 +61,6 @@ where "builder" is one of the supported builders, e.g. html, latex or linkcheck.
 [vagrant@vbox sphinx]$ ll
 total 4
 drwxr-xr-x. 4 vagrant vagrant 4096 Mar  5 13:37 docs
--rw-r--r--. 1 vagrant vagrant    0 Mar  5 13:34 main.py
 [vagrant@vbox sphinx]$ ll docs/
 total 16
 drwxr-xr-x. 2 vagrant vagrant 4096 Mar  5 13:37 build
